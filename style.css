@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  margin: 0%;
+  background-color : lightgrey; 
+
+}
+#patio{
+  display: flex;
+  margin: 2px;
+  flex-wrap: wrap; 
+}
+
+.vs{
+  margin: 2px;
+ display: flex;
+  flex-wrap: wrap; 
+ border: 1px solid black;
+
+}
+.nome{
+  font-size: medium;
+}
+
+.delete{
+border-radius: 50%;
+background-color: lightsteelblue;
+}
+#title{
+  display: flex;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size : 50px;
+  align-items: center;
+  justify-content: center;
+ color: rgb(222, 43, 79);
+}
+#nome{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+#cadastrar{
+  border-radius: 50%;
+  background-color: lightsteelblue;
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title1 {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title2 {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
